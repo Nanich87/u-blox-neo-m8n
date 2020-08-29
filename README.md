@@ -1,4 +1,4 @@
-# u-blox NEO-M8N
+# u-blox NEO-M8N (Firmware v2.01)
 
 ![u-blox NEO-M8N](https://www.u-blox.com/sites/default/files/styles/product_full/public/products/NEO-M8.png?itok=PJa0Wosb)
 
@@ -6,7 +6,7 @@
 
 [NEO-M8 series](https://www.u-blox.com/en/product/neo-m8-series)
 
-## RTKLIB startup commands
+## RTKLIB startup commands 
 
 <code>!HEX B5 62 06 01 03 00 03 10 01 1E 69</code>
   
