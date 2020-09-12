@@ -1,16 +1,16 @@
-#Enable trk-meas
+#Enable TRK-MEAS
 !HEX B5 62 06 01 03 00 03 10 01 1E 69
 
-#Enable trk-sfrbx
+#Enable TRK-SFRBX
 !HEX B5 62 06 01 03 00 03 0F 01 1D 67
 
-#Enable nav-clock
+#Enable NAV-CLOCK
 !HEX B5 62 06 01 03 00 01 22 01 2E 87
 
-#Enable nav-svinfo
+#Enable NAV-SVINFO
 !HEX B5 62 06 01 03 00 01 30 01 3C A3
 
-#Enable nav-timegps
+#Enable NAV-TIMEGPS
 !HEX B5 62 06 01 03 00 01 20 01 2C 83
 
 #Disable NMEA GGA
@@ -33,4 +33,3 @@
 
 #Disable NMEA ZDA
 !UBX CFG-MSG 240 8 0 0 0 0 0 0
-
