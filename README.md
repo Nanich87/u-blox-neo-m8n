@@ -1,6 +1,6 @@
 # u-blox NEO-M8N (Firmware v2.01)
 
-![u-blox NEO-M8N](https://content.u-blox.com/sites/default/files/products/NEO-M8-top-bottom.png)
+![u-blox NEO-M8N](https://github.com/Nanich87/u-blox-neo-m8n/blob/master/NEO-M8-top-bottom.png)
 
 ## Specifications
 
