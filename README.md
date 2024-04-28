@@ -6,24 +6,24 @@
 
 [NEO-M8 series](https://www.u-blox.com/en/product/neo-m8-series)
 
-## RTKLIB startup commands 
+## RTKLIB startup commands
 
-<code>#Enable TRK-MEAS</code>
+### Enable TRK-MEAS
 
-<code>!HEX B5 62 06 01 03 00 03 10 01 1E 69</code>
+`!HEX B5 62 06 01 03 00 03 10 01 1E 69`
 
-<code>#Enable TRK-SFRBX</code>
+### Enable TRK-SFRBX
 
-<code>!HEX B5 62 06 01 03 00 03 0F 01 1D 67</code>
+`!HEX B5 62 06 01 03 00 03 0F 01 1D 67`
 
-<code>#Enable NAV-CLOCK</code>
+### Enable NAV-CLOCK
 
-<code>!HEX B5 62 06 01 03 00 01 22 01 2E 87</code>
+`!HEX B5 62 06 01 03 00 01 22 01 2E 87`
 
-<code>#Enable NAV-SVINFO</code>
+### Enable NAV-SVINFO
 
-<code>!HEX B5 62 06 01 03 00 01 30 01 3C A3</code>
+`!HEX B5 62 06 01 03 00 01 30 01 3C A3`
 
-<code>#Enable NAV-TIMEGPS</code>
+### Enable NAV-TIMEGPS
 
-<code>!HEX B5 62 06 01 03 00 01 20 01 2C 83</code>
+`!HEX B5 62 06 01 03 00 01 20 01 2C 83`
