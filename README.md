@@ -1,6 +1,6 @@
 # u-blox NEO-M8N (Firmware v2.01)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Nanich87/u-blox-neo-m8n/blob/master/README.md)
-[![bg](https://img.shields.io/badge/lang-bg-green.svg)](https://github.com/Nanich87/u-blox-neo-n8n/blob/master/README.bg.md)
+[![bg](https://img.shields.io/badge/lang-bg-green.svg)](https://github.com/Nanich87/u-blox-neo-m8n/blob/master/README.bg.md)
 
 ![u-blox NEO-M8N](https://github.com/Nanich87/u-blox-neo-m8n/blob/master/NEO-M8-top-bottom.png)
 
