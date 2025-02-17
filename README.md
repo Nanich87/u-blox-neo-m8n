@@ -4,6 +4,10 @@
 
 ![u-blox NEO-M8N](https://github.com/Nanich87/u-blox-neo-m8n/blob/master/NEO-M8-top-bottom.png)
 
+## Description
+
+How to enable raw GNSS data in u-blox NEO-M8N receivers (Firmware 2.01) 
+
 ## Specifications
 
 [NEO-M8 series](https://www.u-blox.com/en/product/neo-m8-series)
@@ -12,20 +16,20 @@
 
 ### Enable TRK-MEAS
 
-`!HEX B5 62 06 01 03 00 03 10 01 1E 69`
+<pre>!HEX B5 62 06 01 03 00 03 10 01 1E 69</pre>
 
 ### Enable TRK-SFRBX
 
-`!HEX B5 62 06 01 03 00 03 0F 01 1D 67`
+<pre>!HEX B5 62 06 01 03 00 03 0F 01 1D 67</pre>
 
 ### Enable NAV-CLOCK
 
-`!HEX B5 62 06 01 03 00 01 22 01 2E 87`
+<pre>!HEX B5 62 06 01 03 00 01 22 01 2E 87</pre>
 
 ### Enable NAV-SVINFO
 
-`!HEX B5 62 06 01 03 00 01 30 01 3C A3`
+<pre>!HEX B5 62 06 01 03 00 01 30 01 3C A3</pre>
 
 ### Enable NAV-TIMEGPS
 
-`!HEX B5 62 06 01 03 00 01 20 01 2C 83`
+<pre>!HEX B5 62 06 01 03 00 01 20 01 2C 83</pre>
