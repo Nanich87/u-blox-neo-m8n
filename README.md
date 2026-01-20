@@ -33,3 +33,24 @@ How to enable raw GNSS data in u-blox NEO-M8N receivers (Firmware 2.01)
 ### Enable NAV-TIMEGPS
 
 <pre>!HEX B5 62 06 01 03 00 01 20 01 2C 83</pre>
+
+### Disable NMEA GGA
+<pre>!UBX CFG-MSG 240 0 0 0 0 0 0 0</pre>
+
+### Disable NMEA GLL
+<pre>!UBX CFG-MSG 240 1 0 0 0 0 0 0</pre>
+
+### Disable NMEA GSA
+<pre>!UBX CFG-MSG 240 2 0 0 0 0 0 0</pre>
+
+### Disable NMEA GSV
+<pre>!UBX CFG-MSG 240 3 0 0 0 0 0 0</pre>
+
+### Disable NMEA RMC
+<pre>!UBX CFG-MSG 240 4 0 0 0 0 0 0</pre>
+
+### Disable NMEA VTG
+<pre>!UBX CFG-MSG 240 5 0 0 0 0 0 0</pre>
+
+### Disable NMEA ZDA
+<pre>!UBX CFG-MSG 240 8 0 0 0 0 0 0</pre>

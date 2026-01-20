@@ -33,3 +33,24 @@
 ### Включване на съобщение NAV-TIMEGPS
 
 <pre>!HEX B5 62 06 01 03 00 01 20 01 2C 83</pre>
+
+### Изключване на съобщение NMEA GGA
+<pre>!UBX CFG-MSG 240 0 0 0 0 0 0 0</pre>
+
+### Изключване на съобщение NMEA GLL
+<pre>!UBX CFG-MSG 240 1 0 0 0 0 0 0</pre>
+
+### Изключване на съобщение NMEA GSA
+<pre>!UBX CFG-MSG 240 2 0 0 0 0 0 0</pre>
+
+### Изключване на съобщение NMEA GSV
+<pre>!UBX CFG-MSG 240 3 0 0 0 0 0 0</pre>
+
+### Изключване на съобщение NMEA RMC
+<pre>!UBX CFG-MSG 240 4 0 0 0 0 0 0</pre>
+
+### Изключване на съобщение NMEA VTG
+<pre>!UBX CFG-MSG 240 5 0 0 0 0 0 0</pre>
+
+### Изключване на съобщение NMEA ZDA
+<pre>!UBX CFG-MSG 240 8 0 0 0 0 0 0</pre>
